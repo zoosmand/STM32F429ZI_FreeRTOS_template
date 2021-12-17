@@ -60,7 +60,7 @@ Core/Src/pe811.c \
 Core/Src/ts.c \
 Core/Src/l2gd20.c \
 Core/Src/mems.c \
-Core/Src/freertos.c \
+Core/Src/freertos_srv.c \
 Core/Src/srv_watchdog.c \
 Core/Src/srv_led.c \
 Core/Src/srv_logger.c \

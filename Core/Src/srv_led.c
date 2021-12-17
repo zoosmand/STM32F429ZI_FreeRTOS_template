@@ -10,7 +10,7 @@
   */
 
 /* Includes ------------------------------------------------------------------*/
-#include "freertos.h"
+#include "freertos_srv.h"
 
 /* Local variables -----------------------------------------------------------*/
 static xTimerHandle xBlinkRedTimer = NULL;

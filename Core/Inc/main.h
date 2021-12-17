@@ -49,7 +49,7 @@ extern "C" {
 #include "ts.h"
 #include "l3gd20.h"
 #include "mems.h"
-#include "freertos.h"
+#include "freertos_srv.h"
 #include "FreeRTOS.h"
 #include "task.h"
 #include "queue.h"
