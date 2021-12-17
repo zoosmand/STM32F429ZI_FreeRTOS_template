@@ -39,7 +39,7 @@ void srvWatchdog(void) {
 
 
 /**
-  * @brief  Recharges Warchdog counter.
+  * @brief  Recharges Watchdog counter.
   * @return None
   */
 static void prvWatchdogRecharge(xTimerHandle xTimer) {

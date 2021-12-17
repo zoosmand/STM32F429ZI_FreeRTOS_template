@@ -28,6 +28,11 @@
                 "isDefault": true
             },
             "problemMatcher": []
+        },
+        {
+            "label": "Make Clean",
+            "type": "shell",
+            "command": "make clean"
         }
-    ]
+   ]
 }

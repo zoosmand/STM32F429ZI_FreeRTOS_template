@@ -36,7 +36,7 @@
                 "DATA_CACHE_ENABLE=1",
                 "STM32F429xx"
             ],
-            "intelliSenseMode": "clang-x64",
+            "intelliSenseMode": "gcc-arm",
             "cStandard": "c11",
             "cppStandard": "c++17",
             "browse": {
